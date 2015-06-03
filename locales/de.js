@@ -1,5 +1,5 @@
 {
-	"Switch Language": "日本語",
+	"Switch Language": "Sprache wechseln",
 	"Language Notice": "このページの英語版を表示している。",
 	"Language Redirect": "日本語版を表示します。",
 	"en-US": "en-US",
